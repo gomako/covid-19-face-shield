@@ -1,6 +1,10 @@
 # Covid 19 Face Shield/Visor For Stackable 3D Printing On Single Nozzle Printer
 
-This is my version of the shield from [3dverkstan.se](https://3dverkstan.se/protective-visor/) that stacks well on my single nozzle 3D printer (Creality CR205) using PLA. I am very new to 3D printing and there is a *lot* of information out there, but this is what works for me. Mainly I didn't realise that you literally left a small gap between the rows and that space is what causes the weak link between rows that allows you to snap the visors apart without haveing to clean up a load of support material.
+Using the excellent shield from [3dverkstan.se](https://3dverkstan.se/protective-visor/) I set up an STL file that stacks well on my single nozzle 3D printer (Creality CR205) using PLA. I am very new to 3D printing and there is a *lot* of information out there, but this is what works for me. Mainly I didn't realise that you literally left a small gap between the rows and that space is what causes the weak link between rows that allows you to snap the visors apart without haveing to clean up a load of support material. 
+
+I followed pretty much everything in this [video](https://www.youtube.com/watch?v=3pK8DqJyOPU) so big shout out to Desktop Makes on YouTube.
+
+The only reason I made this repo is to save people like me that aren't 1337 3D printing wizards some time and get straight to printing.
 
 **If you just want the STL files, download this repo and save the file. Currently there's only a 2 stack version, but I intend to add more to the repo going forward**
 
@@ -9,8 +13,6 @@ This is my version of the shield from [3dverkstan.se](https://3dverkstan.se/prot
 At the time of writing, there is a stacked version for dual nozzle 3d printers, but not for single nozzle. So I made this version for stacking on a single nozzle. 
 
 Currently it's the Europe ISO838 version, which I can make here in the UK using a normal, everyday hole punch.
-
-I followed pretty much everything in this [video](https://www.youtube.com/watch?v=3pK8DqJyOPU) but it took some fiddling about.
 
 ## How To Print (well, how I print it, anyway)
 
