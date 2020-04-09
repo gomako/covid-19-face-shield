@@ -6,7 +6,7 @@ I followed pretty much everything in this [video](https://www.youtube.com/watch?
 
 The only reason I made this repo is to save people like me that aren't 1337 3D printing wizards some time and get straight to printing.
 
-**If you just want the STL files, download this repo and save the file. Currently there's only a 2 stack version, but I intend to add more to the repo going forward**
+**If you just want the STL files, download this repo and save the file. Currently there are 2 and 4 stack version, but I intend to add more to the repo going forward**
 
 ![Image of Visor](https://github.com/gomako/covid-19-face-shield/blob/master/images/visor.png)
 
