@@ -4,6 +4,8 @@ This is my version of the shield from [3dverkstan.se](https://3dverkstan.se/prot
 
 **If you just want the STL files, download this repo and save the file. Currently there's only a 2 stack version, but I intend to add more to the repo going forward**
 
+![Image of Visor](https://github.com/gomako/covid-19-face-shield/blob/master/images/visor.png)
+
 At the time of writing, there is a stacked version for dual nozzle 3d printers, but not for single nozzle. So I made this version for stacking on a single nozzle. 
 
 Currently it's the Europe ISO838 version, which I can make here in the UK using a normal, everyday hole punch.
