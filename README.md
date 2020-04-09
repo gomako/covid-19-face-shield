@@ -1,4 +1,4 @@
-# Covid 19 face shield
+# Covid 19 Face Shield/Visor For Stackable 3D Printing On Single Nozzle Printer
 
 This is my version of the shield from [3dverkstan.se](https://3dverkstan.se/protective-visor/) that stacks well on my single nozzle 3D printer (Creality CR205) using PLA. I am very new to 3D printing and there is a *lot* of information out there, but this is what works for me. Mainly I didn't realise that you literally left a small gap between the rows and that space is what causes the weak link between rows that allows you to snap the visors apart without haveing to clean up a load of support material.
 
@@ -10,7 +10,7 @@ Currently it's the Europe ISO838 version, which I can make here in the UK using 
 
 I followed pretty much everything in this [video](https://www.youtube.com/watch?v=3pK8DqJyOPU) but it took some fiddling about.
 
-## How to Print (well, how I print it, anyway)
+## How To Print (well, how I print it, anyway)
 
  - Open the STL in Ultimaker
  - Layer height is 2.8mm
