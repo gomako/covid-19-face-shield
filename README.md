@@ -36,7 +36,7 @@ Let it cool down before attempting to separate the layers. There's a thin chamfe
 
 ## My Background
 
-I got given a 3D printer on indefinite loan by a generous friend and aside from messing about making silly stuff I haven't really used it as I didn't really have time to spend working out how to use it. I find now that I have lots of time to spare and I really want to do something useful. Staff at my local high school is working hard producing laser cut visors and are distributing them locally to front line staff.
+I got given a 3D printer on indefinite loan by a generous friend and aside from messing about making silly stuff I haven't really used it as I didn't really have time to spend working out how to use it. I find now that I have lots of time to spare and I really want to do something useful. Staff at my local high school are working hard producing laser cut visors and are distributing them locally to front line staff.
 
 I know what I am making is not ideal, as it's not PETG and it's not as robust as the PRUSA one, but I can make many more per day and my friends that work in the NHS tell me they are needed. They can be sterilized in alcohol or just washed in soapy water and rinsed to be cleaned. PLA is not suitable to be heated.
 
